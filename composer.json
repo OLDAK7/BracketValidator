@@ -2,6 +2,7 @@
     "name": "oldak7/bracket-validator",
     "description": "Библиотека для проверки корректности скобок",
     "type": "library",
+    "license": "MIT",
     "version": "1.0.0",
     "authors": [
         {
